@@ -230,7 +230,7 @@ class DBConnection:
 
     def __exit__(self, exc_type, exc_val, exc_tb):
         self.disconnect()
-        raise  # Do not suppress exceptions
+        return false  # Do not suppress exceptions
 
 def test_db_connection():
     try:
