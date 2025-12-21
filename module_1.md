@@ -276,3 +276,4 @@ The pattern you want in real backends/scrapers is usually: **one module that con
 
 ## Refrences
 [Garbage Collector Interface](https://docs.python.org/3/library/gc.html#module-gc)
+[operator](https://docs.python.org/3/library/operator.html)
