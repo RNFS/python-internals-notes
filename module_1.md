@@ -1,7 +1,5 @@
 # Module 1 – Runtime, Objects, and Memory
 
-**Date:** 2025-12-02  
-**Time spent:** ~30 min
 
 ***
 
