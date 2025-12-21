@@ -20,7 +20,7 @@ These notes are organized into modules, each focusing on a specific layer of the
 - Class vs. Instance attributes and the MRO lookup chain.
 - Handling Reference Cycles with `weakref`.
 
-### [Module 2: Functions & Metaprogramming](./module_2.md) *(Coming Soon)*
+### [Module 2: Functions & Metaprogramming](./module_2.md)
 *Focus: Scopes, State, and Control Flow*
 - Closures, Cells, and captured state.
 - Decorators: from simple wrappers to configurable factories.
