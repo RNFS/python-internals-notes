@@ -29,7 +29,7 @@ These notes are organized into modules, each focusing on a specific layer of the
 - Descriptors and Properties: Customizing attribute access.
 - ABCs and Protocols: Defining interfaces for robust architecture.
 
-### [Module 3: Async & Concurrency](./module_3.md) *(Coming Soon)*
+### [Module 3: Async & Concurrency](./module_3.md) 
 *Focus: The Event Loop and Scalable Backends*
 - The `async/await` runtime model vs. blocking code.
 - Managing the Event Loop: Tasks, Futures, and Scheduling.
